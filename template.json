@@ -1,0 +1,26 @@
+{
+    "mappings": {
+        "sample_col": "Sample Name",
+        "target_col": "Target Name",
+        "ct_col": "CT",
+        "task_col": "Custom Task"
+    },
+    "controls": {
+        "targets": {
+            "DEPC": "V/DEPC",
+            "DMS": "V/DMS",
+            "SHAPE": "V/SHAPE",
+            "V/DEPC": "V/DEPC",
+            "V/DMS": "V/DMS",
+            "V/SHAPE": "V/SHAPE"
+        },
+        "samples": {
+            "DEPC": "Short",
+            "DMS": "Short",
+            "SHAPE": "Short",
+            "V/DEPC": "Short",
+            "V/DMS": "Short",
+            "V/SHAPE": "Short"
+        }
+    }
+}
